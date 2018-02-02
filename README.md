@@ -1,5 +1,5 @@
 # StormyWeatherApp
-Its Weather Application which tracks the present location of end user and shows the current weather data in that region.Details like present temperature(in °F),Time,Humidity,Precipitation,Summary and icon representing the present weather.  
+Its Weather Application which tracks the present location of end user and shows the current weather data in that region.Details like present temperature(in °F),Time,Humidity,Precipitation,Summary and icon representing the present weather are shown.  
 
 -->Weather API is used from https://darksky.net/ with respective API Keys.  
 -->Network Calls are used in this app. OKHTTP is used for this purpose.  
